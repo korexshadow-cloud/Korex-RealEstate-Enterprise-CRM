@@ -5,6 +5,32 @@
 
 ---
 
+## 📸 Application Preview
+<p align="center">
+  <b>1. Enterprise Admin Dashboard & Analytics</b><br>
+  <img src="screenshots/admin.jpeg" alt="Admin Dashboard Preview" width="95%" />
+</p>
+
+<p align="center">
+  <b>2. Multi-Stage Customer Pipeline & Filters</b><br>
+  <img src="screenshots/customer_form.jpeg" alt="Customer Pipeline" width="95%" />
+</p>
+
+<p align="center">
+  <b>3. Owner & Property Asset Directory</b><br>
+  <img src="screenshots/owner_form.jpeg" alt="Owner Property Inventory" width="95%" />
+</p>
+
+<p align="center">
+  <b>4. Threaded Follow-up Timeline & Dynamic Status Modal</b><br>
+  <img src="screenshots/lead_table.jpeg" alt="Lead Details and Timeline" width="95%" />
+</p>
+
+<p align="center">
+  <b>5. WhatsApp Chat-Style Staff Activity Diary</b><br>
+  <img src="screenshots/diary.jpeg" alt="Staff Personal Diary" width="95%" />
+</p>
+
 ## 🌟 Key Enterprise Capabilities
 - 👥 **Dual Pipeline Management:** Customer 4-stage pipeline + Owner/Property photo inventory with automated image compression (Pillow).
 - ⏰ **12:00 AM Automated Follow-up Rollover:** Smart priority scheduling without overriding future slots.
